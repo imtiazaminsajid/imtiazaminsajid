@@ -5,7 +5,7 @@
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/imtiazaminsajid)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiazaminsajid/)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=josephthoma948@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:imtiazaminsajid@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=imtiazaminsajid@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:imtiazaminsajid@gmail.com)
 
 
 - 🎀 Mobile App Developer
