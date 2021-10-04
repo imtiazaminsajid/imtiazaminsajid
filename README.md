@@ -16,19 +16,24 @@
 
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Android Studio](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   
 - 🛢 &nbsp;
   ![MySql](https://img.shields.io/badge/-MYSql-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
+  ![Room](https://img.shields.io/badge/-room-333333?style=flat&logo=room)
+  ![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=Realm)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=markdown)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  
 - 🔧 &nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 📈 my github stats
 
