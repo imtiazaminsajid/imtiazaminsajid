@@ -34,8 +34,8 @@
   
 - 🛢 &nbsp;
   ![MySql](https://img.shields.io/badge/-MYSql-333333?style=flat&logo=mysql)
-  ![Sql](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
-  ![Room](https://img.shields.io/badge/-room-333333?style=flat&logo=room)
+  ![Sql](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+  ![Room](https://img.shields.io/badge/-Room-333333?style=flat&logo=Room)
   ![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=Realm)
 
 - ⚙️ &nbsp;
@@ -44,7 +44,7 @@
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   
 - 🔧 &nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-00FF00?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-333333?style=flat&logo=android-studio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 📈 my github stats
