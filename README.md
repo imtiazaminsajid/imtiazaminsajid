@@ -44,7 +44,7 @@
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
   
 - 🔧 &nbsp;
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-00FF00?style=flat&logo=android-studio&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 📈 my github stats
