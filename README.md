@@ -56,7 +56,7 @@
 
 ##  💹 Contribution Graph
 
-<a href="https://github.com/imtiazaminsajid"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bughunter0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/imtiazaminsajid"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imtiazaminsajid&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
 <a href="https://github.com/imtiazaminsajid">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazaminsajid"/>
