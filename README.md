@@ -14,6 +14,16 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Whatsapp](01677006082) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
 
+## Experience
+
+- 💼 **Software Engineer (Flutter)**\
+📆 Oct 2020 - Present\
+📍 Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
+
+- 💼 **Software Engineer (Android)**\
+📆 Sep 2019 - Jun 2020\
+📍 **6sense Technology** - Malibag, Dhaka, Bangladesh
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -55,17 +65,7 @@
     
 <details>
   <summary>📃 Resume</summary>
-    
-## Experience
-
-- 💼 **Software Engineer (Flutter)**\
-📆 Oct 2020 - Present\
-📍 Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
-
-- 💼 **Software Engineer (Android)**\
-📆 Sep 2019 - Jun 2020\
-📍 **6sense Technology** - Malibag, Dhaka, Bangladesh
-
+   
 
 ## Education
 
