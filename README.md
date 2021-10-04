@@ -1,4 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Imtiaz Amin](https://www.github.com/imtiazaminsajid)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+and+Android+with+2%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+
 <br> [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/imtiazaminsajid)
 
 ### You can connect with me:
@@ -8,7 +11,7 @@
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=imtiazaminsajid@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:imtiazaminsajid@gmail.com)
 
 
-- 🎀 Mobile App Developer
+- 🔭 I’m currently working at <strong>Annanovas IT Ltd.</strong> as <strong>Mobile App Developer(Flutter)</strong>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Whatsapp](01677006082) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
 
@@ -80,8 +83,6 @@
 📍 **Noakhali Zilla School** - Noakhali, Bangladesh
 
 ## Volunteering
-
-<img align="right" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F387066%2Fbangladesh-red-crescent-society&psig=AOvVaw3dr3iXFrvjhiNSyrQclUKA&ust=1633459569795000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj905y1sfMCFQAAAAAdAAAAABAO" />
 
 - 👨‍💻 **Volunteer Secretary**\
 📆 2011 - Present\
