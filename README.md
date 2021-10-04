@@ -9,8 +9,26 @@
 
 
 - 🎀 Mobile App Developer
-- 🎁 Debugging myself from Bugs
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Whatsapp](01677006082) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Android Studio](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  
+- 🛢 &nbsp;
+  ![MySql](https://img.shields.io/badge/-MYSql-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=android-studio&logoColor=007ACC)
 
 📈 my github stats
 
@@ -30,6 +48,16 @@
     
 <details>
   <summary>📃 Resume</summary>
+    
+## Experience
+
+- 💼 **Software Engineer (Flutter)**\
+📆 Oct 2020 - Present\
+📍 Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
+
+- 💼 **Software Engineer (Android)**\
+📆 Sep 2019 - Jun 2020\
+📍 **6sense Technology** - Malibag, Dhaka, Bangladesh
 
 
 ## Education
