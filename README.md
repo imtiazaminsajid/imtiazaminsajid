@@ -21,7 +21,7 @@
 📍 Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
 
 - 💼 **Software Engineer (Android)**\
-📆 Sep 2019 - Jun 2020\
+📆 Sep 2019 - Sep 2020\
 📍 **6sense Technology** - Malibag, Dhaka, Bangladesh
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
