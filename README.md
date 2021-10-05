@@ -14,7 +14,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
 
-<h3> 🛠 &nbsp;Experience</h3>
+<h3> 💼 &nbsp;Experience</h3>
 
 - 💼 **Software Engineer (Flutter)**\
 📆 Oct 2020 - Present\
