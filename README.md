@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working at <strong>Annanovas IT Ltd.</strong> as <strong>Mobile App Developer(Flutter)</strong>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Whatsapp](01677006082) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
+- ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
 
-## Experience
+<h3> 🛠 &nbsp;Experience</h3>
 
 - 💼 **Software Engineer (Flutter)**\
 📆 Oct 2020 - Present\
-📍 Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
+📍 **Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
 
 - 💼 **Software Engineer (Android)**\
 📆 Sep 2019 - Sep 2020\
