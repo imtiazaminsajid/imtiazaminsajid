@@ -1,7 +1,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Imtiaz Amin](https://www.github.com/imtiazaminsajid)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+and+Android+Developer+with+2%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
-<br> [![Profile views](https://komarev.com/ghpvc/?username=bughunter0&label=Profile%20views)](https://github.com/imtiazaminsajid)
+<br> [![Profile views](https://komarev.com/ghpvc/?username=imtiazaminsajid&label=Profile%20views)](https://github.com/imtiazaminsajid)
 
 ### You can connect with me:
 
