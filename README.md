@@ -1,26 +1,42 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Imtiaz Amin](https://www.github.com/imtiazaminsajid)
+<!-- ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Imtiaz Amin](https://www.github.com/imtiazaminsajid) -->
+
+<h1><p align="center">Hello, I'm Imtiaz Amin! <a href="https://www.github.com/imtiazaminsajid"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+
+<p align="center">I'm a Mobile App Developer.<br/>I specialize in Android Development and Flutter.<br> I also love doing project management etc.<br></p><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+and+Android+Developer+with+2%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=imtiazaminsajid&label=Profile%20views)](https://github.com/imtiazaminsajid)
 
 ### You can connect with me:
-
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/imtiazaminsajid)
+<!-- [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/imtiazaminsajid)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiazaminsajid/)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=imtiazaminsajid@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:imtiazaminsajid@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=imtiazaminsajid@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:imtiazaminsajid@gmail.com) -->
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imtiazaminsajid) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imtiazaminsajid/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/imtiaz_amin_sajid)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/imtiazaminsajid)
+[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:imtiazaminsajid@gmail.com) 
+
+</p>
 
 
-- 🔭 I’m currently working at <strong>Annanovas IT Ltd.</strong> as <strong>Mobile App Developer(Flutter)</strong>
+<!-- - 🔭 I’m currently working at <strong>Annanovas IT Ltd.</strong> as <strong>Mobile App Developer(Flutter)</strong>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/)
+- ✨ Connect With me On [Facebook](https://www.facebook.com/imtiazaminsajid) & [Linkedin](https://www.linkedin.com/in/imtiazaminsajid/) -->
 
 <h3> 💼 &nbsp;Experience</h3>
 
-- 💼 **Software Engineer (Flutter)**\
+- **Software Engineer (Flutter)**\
 📆 Oct 2020 - Present\
 📍 **Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
 
-- 💼 **Software Engineer (Android)**\
+- **Software Engineer (Android)**\
 📆 Sep 2019 - Sep 2020\
 📍 **6sense Technology** - Malibag, Dhaka, Bangladesh
 
