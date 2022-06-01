@@ -32,8 +32,12 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
+- **Software Engineer II**\
+📆 May 2022 - Present\
+📍 **Sheba Platform Limited** - Banani, Dhaka, Bangladesh
+
 - **Software Engineer (Flutter)**\
-📆 Oct 2020 - Present\
+📆 Oct 2020 - Apr 2022\
 📍 **Annanovas IT Ltd** - Mohammodpur, Dhaka, Bangladesh
 
 - **Software Engineer (Android)**\
