@@ -32,8 +32,12 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
+- **Software Engineer**\
+📆 May 2022 - July 2022\
+📍 **Tikweb Bangladesh** - Dhaka, Bangladesh
+
 - **Software Engineer II**\
-📆 May 2022 - Present\
+📆 May 2022 - July 2022\
 📍 **Sheba Platform Limited** - Banani, Dhaka, Bangladesh
 
 - **Software Engineer (Flutter)**\
@@ -91,7 +95,7 @@
 
 - 📖 **Bachelor of Computer Science and Engineering**\
 📆 2015 - 2019\
-📍 **St.George's College Aruvithura** - Aruvithura, Kottayam, Kerala
+📍 **Manarat International University** - Dhaka, Bangladesh
 
 - 📖 **Higher Secondary School Certificate**\
 📆 2011 - 2013\
