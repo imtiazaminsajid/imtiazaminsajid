@@ -32,8 +32,12 @@
 
 <h3> 💼 &nbsp;Experience</h3>
 
+- **Software Engineer (Mobile Application)**\
+📆 September 2023 - current\
+📍 **Prothom Alo** - Dhaka, Bangladesh
+
 - **Software Engineer**\
-📆 May 2022 - July 2022\
+📆 May 2022 - August 2023\
 📍 **Tikweb Bangladesh** - Dhaka, Bangladesh
 
 - **Software Engineer II**\
