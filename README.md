@@ -7,7 +7,7 @@
 
 <p align="center">I'm a Mobile App Developer.<br/>I specialize in Android Development and Flutter.<br> I also love doing project management etc.<br></p><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+and+Android+Developer+with+4%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+and+Android+Developer+with+5+%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 <br> [![Profile views](https://komarev.com/ghpvc/?username=imtiazaminsajid&label=Profile%20views)](https://github.com/imtiazaminsajid)
 
 ### You can connect with me:
